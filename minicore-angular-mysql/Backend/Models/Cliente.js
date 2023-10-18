@@ -1,4 +1,4 @@
-const {sequelize,Sequelize} = require('../config/db')
+const {sequelize,Sequelize} = require('../config/db.')
 
 const Cliente = sequelize.define('clientes', {
     id: {
@@ -11,7 +11,5 @@ const Cliente = sequelize.define('clientes', {
     tableName: 'Cliente',
     timestamps: false,
 })
-
-
 
 module.exports = {Cliente}
