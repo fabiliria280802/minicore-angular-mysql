@@ -6,8 +6,8 @@
 
 <h1 align="center"> Sobre MySQL </h1>
 <div style="display: flex; align-items: center;">
-<img src="./minicore-angular-mysql/Frontend/src/assets/readme-images/mysql-logo.png" />
-<p align="justify">MySQL es un sistema de administración de bases de datos relacionales. Es un software de código abierto desarrollado por Oracle. Se considera como la base de datos de código abierto más utilizada en el mundo.</p>
+<img src="./minicore-angular-mysql/Frontend/src/assets/readme-images/mysql-logo.png" style="center"/>
+<p align="justify">MySQL presenta algunas ventajas que lo hacen muy interesante para los desarrolladores. La más evidente es que trabaja con bases de datos relacionales, es decir, utiliza tablas múltiples que se interconectan entre sí para almacenar la información y organizarla correctamente. Al ser basada en código abierto es fácilmente accesible y la inmensa mayoría de programadores que trabajan en desarrollo web han pasado usar MySQL en alguno de sus proyectos porque al estar ampliamente extendido cuenta además con una ingente comunidad que ofrece soporte a otros usuarios.</p>
 </div>
 
 <h1 align="center"> Diseño de Ingenieria </h1>
