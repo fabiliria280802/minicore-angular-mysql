@@ -12,15 +12,9 @@
 
 <h1 align="center"> Diseño de Ingenieria </h1>
 <div>
-<p align="justify">
-<b>Diagrama de uso:</b><br/><br/>
-<img src="" /><br/>
-El diagrama de uso de la aplicación "Freaks" inicia con la apertura de la aplicación web. Al hacerlo, se presenta la pestaña de login, donde el usuario debe proporcionar sus credenciales, que incluyen un nombre de usuario y una contraseña. En caso de no tener una cuenta, se ofrece la opción de registrarse, solicitando al usuario que ingrese un nombre, nombre de usuario y contraseña.<br/><br/>
-
-CONEXTO<br/><br/>
-
 <b>Arquitectura de la aplicación:</b><br/><br/>
-<img src="" /><br/>
+<img src="./minicore-angular-mysql/Frontend/src/assets/readme-images/arquitectura.png" /><br/>
+<p align="justify">La aplicación de contratos de un cliente funciona con una base de datos mysql que esta configurada dentro del backend con .js y en el contrador hace el calculo del monto total en base a la informacion definida en los archivps del modelo (client.ts y contrat.td), del lado de front la aplicación predefine el ambiente del back para llamarlo y en los servicios recoge la información para ser mostrada
 </p>
 </div>
 

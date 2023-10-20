@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  url: 'http://localhost:3000/api/minicore'
+  url: 'https://vercel.com/fabiliria280802s-projects/minicore-angular-mysql-zwx2/GZPqqEUwxe6zhpikwuDNKCMoT7fh'
 };
